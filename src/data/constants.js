@@ -20,7 +20,7 @@ export const Bio = {
     "I am a second-year student studying software engineering, and I have a tremendous interest in technology and its ability to solve issues in the real world. With a strong background in programming languages including Javascript, Java, Python, and web development languages, I have a knowledge of object-oriented principles and software development techniques. I am constantly keen to learn new technologies and programming languages to maintain my current knowledge and abilities with the most recent technological advancements.",
   github: "https://github.com/Tharukax",
   resume:
-    "https://drive.google.com/file/d/1bTcdykMLtvSFnN9KhV0vk7ePDFaqFC7y/view?usp=sharing",
+    "https://drive.google.com/file/d/1BZL4yRQEOOsni8OxQI2CPeJIOA3VupWW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nirmal-tharuka/",
   twitter: "",
   insta: "",
