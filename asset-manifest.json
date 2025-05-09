@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nirmal-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Nirmal-Portfolio/static/js/main.10d9bc4c.js",
+    "static/media/Toursim.png": "/Nirmal-Portfolio/static/media/Toursim.0fdd136bcb9df83c0c7f.png",
+    "static/media/Profile.jpg": "/Nirmal-Portfolio/static/media/Profile.c72302a405137befeb8f.jpg",
+    "static/media/python.png": "/Nirmal-Portfolio/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/php.png": "/Nirmal-Portfolio/static/media/php.00baeb442607d6f50cfe.png",
+    "static/media/Onlineshopping.jpeg": "/Nirmal-Portfolio/static/media/Onlineshopping.24a814a27a053e6a77dd.jpeg",
+    "static/media/node.png": "/Nirmal-Portfolio/static/media/node.fc3bd1ec69d7a50e685a.png",
+    "static/media/java.png": "/Nirmal-Portfolio/static/media/java.35397b59170cfd616fee.png",
+    "static/media/Progression.jpeg": "/Nirmal-Portfolio/static/media/Progression.bfec2bea415e86fc188c.jpeg",
+    "static/media/Ticket.jpeg": "/Nirmal-Portfolio/static/media/Ticket.6ffb3afbd6c0da3ab297.jpeg",
+    "static/media/Dice.jpeg": "/Nirmal-Portfolio/static/media/Dice.cc3c446ace81690b9144.jpeg",
+    "static/media/RealEstate .jpeg": "/Nirmal-Portfolio/static/media/RealEstate .fc44c3fd9766bd96a2f2.jpeg",
+    "index.html": "/Nirmal-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Nirmal-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.10d9bc4c.js.map": "/Nirmal-Portfolio/static/js/main.10d9bc4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.10d9bc4c.js"
+  ]
+}
